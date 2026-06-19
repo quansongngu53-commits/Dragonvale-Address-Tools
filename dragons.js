@@ -725,6 +725,7 @@ let dragons = [
 	"salamanderdragon",
 	"sanddragon",
 	"sandscaledragon",
+	"sandshifter",
 	"sandstormdragon",
 	"sanguinitedragon",
 	"sapphiredragon",
