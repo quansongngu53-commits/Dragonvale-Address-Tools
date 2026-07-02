@@ -626,6 +626,7 @@ let dragons = [
 	"petuniadragon",
 	"phantomdragon",
 	"pharaohdragon",
+	"pharroxdragon",
 	"piggybankdragon",
 	"pikeleafdragon",
 	"pincodragon",
